@@ -18,7 +18,7 @@ Developers!
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/FHelper.git
+git clone https://github.com/MrLock1378/SudoLocker.git
 cd SudoLocker
 chmod +x SudoLocker.sh
 ./SudoLocker install
