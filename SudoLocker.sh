@@ -16,8 +16,8 @@ sudo luarocks install serpent
 function print_logo() {
 	green "         @░L░o░c░k░e░r░T░e░a░m░     by     ░@░S░u░d░o░L░o░c░k░e░r░ "
 	green "         @--L--O--C--K--E--R--T--E--A--M    By  @SudoLocker     "
-	green "         @≋L≋o≋c≋k≋e≋r≋T≋e≋a≋m≋    by    @≋S≋u≋d≋o≋L≋o≋c≋k≋e≋r≋"
-	green "         ̴M҉R҉:M҉O҉H҉A҉M҉A҉D҉R҉E҉Z҉AᴸσᶜкєяƬєαм    @	SudoLocker"
+	green "         @░L░o░c░k░e░r░T░e░a░m░     by     ░@░S░u░d░o░L░o░c░k░e░r░"
+	green "         ̴Mr:Mohammadreza   @	SudoLocker"
 	echo -e "\n\e[0m"
 }
 
@@ -47,7 +47,7 @@ function Lockerteam() {
 	white "     ➠>>                          --L--O--C--K--E--R--T-E--A-M--                                      "
 	white "     ➠>>                       -----░@░S░u░d░o░L░o░c░k░e░r░-----                                      "
 	red   "     ➠>>                       -----░@░B░o░t░R░e░b░o░r░n░_░C░H░-----                                  "
-	red   "     ➠>>                       @LockerTeam    B≋e≋y≋o≋n≋d≋ ≋-≋-≋ ≋L≋o≋c≋k≋e≋r≋                      "
+	red   "     ➠>>                       @LockerTeam    Byond-Locker                      "
 	echo -e "\e[0m"
 }
 
