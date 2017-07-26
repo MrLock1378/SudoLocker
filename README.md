@@ -1,5 +1,6 @@
-# [LockerTeam](https://t.me/LockerTeam)
+# [░L░o░c░k░e░r░T░e░a░m░](https://t.me/LockerTeam)
 
+# [[̴̲̲̲̲̅̅̅̅M̲̲̅̅҉̲̲̅̅R̲̲̅̅҉̲̲̅̅:̲̲̅̅M̲̲̅̅҉̲̲̅̅O̲̲̅̅҉̲̲̅̅H̲̲̅̅҉̲̲̅̅A̲̲̅̅҉̲̲̅̅M̲̲̅̅҉̲̲̅̅A̲̲̅̅҉̲̲̅̅D̲̲̅̅҉̲̲̅̅R̲̲̅̅҉̲̲̅̅E̲̲̅̅҉̲̲̅̅Z̲̲̅̅҉̲̲̅̅A̲̲̅̅ᴸ̲̲̅̅σ̲̲̅̅ᶜ̲̲̅̅к̲̲̅̅є̲̲̅̅я̲̲̅̅Ƭ̲̲̅̅є̲̲̅̅α̲̲̅̅м̲̲̅̅]](https://telegram.me/SudoLocker)
 [![Bot API](http://img.shields.io/badge/Bot%20API-v3.0.0-00aced.svg)](https://core.telegram.org/bots/api)
 [![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
 
