@@ -71,7 +71,7 @@ if [ "$1" = "install" ]; then
 	install
 elif [ "$1" = "update" ]; then
 	logo_play
-	beyondteam
+	Lockerteam
 	update
 	exit 1
 else
