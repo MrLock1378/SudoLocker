@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BDHelper
+cd $HOME/SudoLocker
 
 install() {
 		sudo apt-get update
@@ -14,20 +14,20 @@ sudo luarocks install serpent
 }
 
 function print_logo() {
-	green "          ____  ____     _____"
-	green "         |  _ )|  _ \   |_   _|___ ____   __  __"
-	green "         |  _ \| |_) )    | |/ .__|  _ \_|  \/  |"
-	green "         |____/|____/     |_|\____/\_____|_/\/\_|"
+	green "         @░L░o░c░k░e░r░T░e░a░m░     by     ░@░S░u░d░o░L░o░c░k░e░r░ "
+	green "         @--L--O--C--K--E--R--T--E--A--M    By  @SudoLocker     "
+	green "         @≋L≋o≋c≋k≋e≋r≋T≋e≋a≋m≋    by    @≋S≋u≋d≋o≋L≋o≋c≋k≋e≋r≋"
+	green "         ̴M҉R҉:M҉O҉H҉A҉M҉A҉D҉R҉E҉Z҉AᴸσᶜкєяƬєαм    @	SudoLocker"
 	echo -e "\n\e[0m"
 }
 
 function logo_play() {
     declare -A txtlogo
     seconds="0.010"
-    txtlogo[1]=" ____  ____     _____"
-    txtlogo[2]="|  _ )|  _ \   |_   _|___ ____   __  __"
-    txtlogo[3]="|  _ \| |_) )    | |/ .__|  _ \_|  \/  |"
-    txtlogo[4]="|____/|____/     |_|\____/\_____|_/\/\_|"
+    txtlogo[1]="  @░L░o░c░k░e░r░T░e░a░m░     by     ░@░S░u░d░o░L░o░c░k░e░r░ "
+    txtlogo[2]="               @--L--O--C--K--E--R--T--E--A--M"
+    txtlogo[3]="  @░L░o░c░k░e░r░T░e░a░m░     by     ░@░S░u░d░o░L░o░c░k░e░r░ "
+    txtlogo[4]="               @--L--O--C--K--E--R--T--E--A--M"
     printf "\e[31m\t"
     for i in ${!txtlogo[@]}; do
         for x in `seq 0 ${#txtlogo[$i]}`; do
@@ -40,14 +40,14 @@ function logo_play() {
 	echo -e "\e[0m"
 }
 
-function beyondteam() {
+function Lockerteam() {
 	echo -e "\e[0m"
-	green "     >>>>                       We Are Not Attacker                             "
-	green "     >>>>                       We Are Not Alliance                             "
-	white "     >>>>                       We Are Programmer                               "
-	white "     >>>>                       We Are The Best                                 "
-	red   "     >>>>                       We Are Family                                   "
-	red   "     >>>>                       @BeyondTeam                                     "
+	green "     ➠>>                       -----@░L░o░c░k░e░r░T░e░a░m░-----                                       "
+	green "     ➠>>                       -----░R░E░B░O░R░N░T░E░A░M░-----                                        "
+	white "     ➠>>                          --L--O--C--K--E--R--T-E--A-M--                                      "
+	white "     ➠>>                       -----░@░S░u░d░o░L░o░c░k░e░r░-----                                      "
+	red   "     ➠>>                       -----░@░B░o░t░R░e░b░o░r░n░_░C░H░-----                                  "
+	red   "     ➠>>                       @LockerTeam    B≋e≋y≋o≋n≋d≋ ≋-≋-≋ ≋L≋o≋c≋k≋e≋r≋                      "
 	echo -e "\e[0m"
 }
 
@@ -66,7 +66,7 @@ update() {
 
 if [ "$1" = "install" ]; then
 	print_logo
-	beyondteam
+	Lockerteam
 	logo_play
 	install
 elif [ "$1" = "update" ]; then
@@ -76,9 +76,9 @@ elif [ "$1" = "update" ]; then
 	exit 1
 else
 	print_logo
-	beyondteam
+	Lockerteam
 	logo_play
-	green "Beyond Helper Bot running..."
+	green "Lᴏᴄᴋᴇʀ Hᴇʟᴘᴇʀ Bᴏᴛ ʀᴜɴɴɪɴɢ..."
 	#sudo service redis-server restart
 	lua ./bot/bot.lua
 fi
