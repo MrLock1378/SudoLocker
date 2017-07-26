@@ -1,13 +1,9 @@
 # [░L░o░c░k░e░r░T░e░a░m░](https://t.me/LockerTeam)
 
 # [[̴̲̲̲̲̅̅̅̅M̲̲̅̅҉̲̲̅̅R̲̲̅̅҉̲̲̅̅:̲̲̅̅M̲̲̅̅҉̲̲̅̅O̲̲̅̅҉̲̲̅̅H̲̲̅̅҉̲̲̅̅A̲̲̅̅҉̲̲̅̅M̲̲̅̅҉̲̲̅̅A̲̲̅̅҉̲̲̅̅D̲̲̅̅҉̲̲̅̅R̲̲̅̅҉̲̲̅̅E̲̲̅̅҉̲̲̅̅Z̲̲̅̅҉̲̲̅̅A̲̲̅̅ᴸ̲̲̅̅σ̲̲̅̅ᶜ̲̲̅̅к̲̲̅̅є̲̲̅̅я̲̲̅̅Ƭ̲̲̅̅є̲̲̅̅α̲̲̅̅м̲̲̅̅]](https://telegram.me/SudoLocker)
-[![Bot API](http://img.shields.io/badge/Bot%20API-v3.0.0-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
-
-## Beyond Helper V1.5
-An Helper Bot For BDReborn Based On BDMessenger
-
-* * *
+## Locker--Beyond Helper V1.5
+# [░R░e░b░o░r░n░T░e░a░m░](https://t.me/Botreborn_ch)
+* * * * * * *
 
 ## Configure
 
@@ -21,32 +17,31 @@ An Helper Bot For BDReborn Based On BDMessenger
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/BeyondTeam/FHelper.git
-cd FHelper
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
+cd SudoLocker
+chmod +x SudoLocker.sh
+./SudoLocker install
+./SudoLocker.sh 
 
 
 # For Auto Launch:
-cd FHelper
-chmod 777 autobd.sh
+cd SudoLocker
+chmod 777 autoLocker.sh
 tmux
-./autobd.sh
+./autoLocker.sh
 # End ;)
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/FHelper.git && cd FHelper && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/MrLock1378/SudoLocker.git && cd SudoLocker && chmod +x SudoLocker.sh && ./SudoLocker.sh install && .SudoLocker.sh
 ```
 
 # Support and Development
 
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
+More information [Locker Global Chat](https://t.me/joinchat/D3FB-kQ5PiZeyQg1oipc9w)
 
 # Special thanks to
 
-[@AmirBagheri](https://github.com/CodeLua)
 
 * * *
 
@@ -54,8 +49,6 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 [Mohammad](https://github.com/......) ([Telegram](https://t.me/SudoLocker))
 
-[ToOfan](https://github.com/.....) ([Telegram](https://t.me/ToOfan))
-
 ### Our Telegram channel:
 
-[@LoxkerTeam](https://t.me/LockerTeam)
+[@LockerTeam](https://t.me/LockerTeam)
